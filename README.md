@@ -18,7 +18,14 @@ This project presents the design and implementation of a full-stack online shopp
 - User registration, login (JWT), profile with order history
 - Admin dashboard: product CRUD with image upload, user management, order management, mark as delivered
 - Database seeder with sample products and users
+## Connect with me
 
+
+
+[![Facebook](https://img.shields.io/badge/Facebook-Follow-blue)](https://www.facebook.com/crazewan1699)
+[![LinkedIn](https://www.linkedin.com/in/kazi-rezwan-rashid-043686183/skills/edit/forms/new/)
+[![GitHub](https://img.shields.io/github/followers/YOUR_GITHUB_USERNAME?style=social)](https://github.com/kazirezwan)
+Personal website - https://rezwanrashid.pythonanywhere.com/
 ## Tech stack
 
 | Layer | Technology |
